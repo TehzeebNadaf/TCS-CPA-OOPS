@@ -9,7 +9,7 @@ class Account:
         return self.bal
     def withdraw(self, withdrawamnt):
         self.withdrawamnt = withdrawamnt
-        if self.bal>1000 and self.bal==1000:
+        if self.bal>1000 or self.bal==1000:
             self.bal = self.bal - self.withdrawamnt
             return self.bal
         else:
