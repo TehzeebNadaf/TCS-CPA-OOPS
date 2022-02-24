@@ -107,11 +107,17 @@ Sample Input:
 19. Cardiologist
 
 Output :
+
 90902
+
 Madhuri
+
 Dermatologist
+
 700
+
 900
+
 
 
 Enter your code here. Read input from STDIN. Print output to STDOUT
