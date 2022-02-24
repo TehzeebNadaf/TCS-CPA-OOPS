@@ -4,12 +4,21 @@ create two methods:
 2. withdraw-- if balance is atleast 1000 take withdraw amount and deduct from balance else display insufficient balance.
 
 Sample input:
+
 120 #account number
+
 Rajesh #account name
+
 1500 #balance
+
 1200 #deposit amount
+
 2000 #withdraw amount
 
+
 Output:
+
 2700 
+
 insuficient
+
